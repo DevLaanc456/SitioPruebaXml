@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<Evaluacion>
+    <ControlInterno>
+        <CODIGO>01</CODIGO>
+        <ORDEN>1</ORDEN>
+        <NOMBRE>Cumplimiento</NOMBRE>
+        <DESCRIPCION>Gestión de prevención de Blanqueo de Capitales.</DESCRIPCION>
+        <PUNTAJE>50</PUNTAJE>
+        <PUNTAJEEVALUACION>0</PUNTAJEEVALUACION>
+    </ControlInterno>
+    <ControlInterno>
+        <CODIGO>02</CODIGO>
+        <ORDEN>2</ORDEN>
+        <NOMBRE>Auditoría Interna</NOMBRE>
+        <DESCRIPCION>Resultado de los informes de auditoría y nivel de remediación de hallazgos.</DESCRIPCION>
+        <PUNTAJE>30</PUNTAJE>
+        <PUNTAJEEVALUACION>0</PUNTAJEEVALUACION>
+    </ControlInterno>
+    <ControlInterno>
+        <CODIGO>03</CODIGO>
+        <ORDEN>3</ORDEN>
+        <NOMBRE>Gestión del Riesgo</NOMBRE>
+        <DESCRIPCION>Gestión del Riesgo Operativo.</DESCRIPCION>
+        <PUNTAJE>20</PUNTAJE>
+        <PUNTAJEEVALUACION>0</PUNTAJEEVALUACION>
+    </ControlInterno>
+    <Leyendas>
+        <Dato1>
+	    Esta sección tiene un valor  del {0}%  en la Evaluación Global del Desempeño. Usted evaluará los resultados obtenidos por el colaborador
+		en cada una de las metas establecidas en su plan de trabajo, tomando en cuenta la escala de medición siguiente:
+	</Dato1>
+        <Dato2>
+        Esta sección tiene un valor referencial del {0}%  en la Evaluación Global del Desempeño. Usted evaluará los esfuerzo del colaborador en cada una de las áreas  que         conforman Gestión de Control Interno, tomando en cuenta la escala de medición siguiente:
+    </Dato2>
+    </Leyendas>
+</Evaluacion>
