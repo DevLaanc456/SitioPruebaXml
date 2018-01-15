@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<Url>
+  <Link>
+   <Nombre>Google</Nombre>
+   <Enlace>www.google.com</Enlace>
+  </Link>
+  <Link>
+   <Nombre>Yahoo</Nombre>
+   <Enlace>www.Yahoo.com</Enlace>
+  </Link>
+  <Link>
+   <Nombre>Lycos</Nombre>
+   <Enlace>www.Lycos.com</Enlace>
+  </Link>
+  <Link>
+   <Nombre>MSN</Nombre>
+   <Enlace>www.MSN.com</Enlace>
+  </Link>
+</Url>
