@@ -1,0 +1,18 @@
+<Url>
+  <Link>
+   <Nombre>Google</Nombre>
+   <Enlace>http://www.google.com</Enlace>
+  </Link>
+  <Link>
+   <Nombre>Yahoo</Nombre>
+   <Enlace>http://www.Yahoo.com</Enlace>
+  </Link>
+  <Link>
+  <Nombre>Lycos</Nombre>
+   <Enlace>http://www.Lycos.com</Enlace>
+  </Link>
+  <Link>
+  <Nombre>MSN</Nombre>
+   <Enlace>http://www.MSN.com</Enlace>
+  </Link>
+</Url>
